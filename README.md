@@ -1,7 +1,7 @@
 ![logo](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif)
 <h1 align="center">Hi 👋, I'm Subham Nandi</h1>
 <h3 align="center">DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines</h3>
-<img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif” >
+#<img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif” >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-nandi" alt="subham-nandi" /></a> </p>
 
