@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-nandi&" alt="subham-nandi" /></p>
 
-<img src="https://github.com/SUBHAM-NANDI/SUBHAM-NANDI/blob/main/name%3A%20Generate%20snake%20animation.yml" />
