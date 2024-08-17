@@ -1,4 +1,4 @@
-![logo](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
+![logo](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif)
 <h1 align="center">Hi 👋, I'm Subham Nandi</h1>
 <h3 align="center">DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif” >
