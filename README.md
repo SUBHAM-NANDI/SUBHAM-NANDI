@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Subham Nandi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-nandi&label=Profile%20views&color=0e75b6&style=flat" alt="subham-nandi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-nandi" alt="subham-nandi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📝 I regularly write articles on [https://dev.to/subham_nandi](https://dev.to/subham_nandi)
 
@@ -20,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/subham_nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subham_nandi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ nandi-subham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ nandi-subham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandi-subham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandi-subham/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
