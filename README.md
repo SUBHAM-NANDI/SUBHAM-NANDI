@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif)
+![logo](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
 <h1 align="center">Hi 👋, I'm Subham Nandi</h1>
 <h3 align="center">DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif” >
