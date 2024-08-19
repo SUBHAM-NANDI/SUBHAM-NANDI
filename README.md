@@ -1,5 +1,5 @@
 ![logo](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif)
-<h1 align="center">Hi 👋, I'm Subham Nandi</h1>
+<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> , I'm Subham Nandi</h1>
 <h3 align="center">DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines</h3>
 
 <!-- <p align="left"> -->
