@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [40 Days Of Kubernetes &lpar;3/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-340-29aa)
 - [Understanding IP Addressing and Subnetting](https://dev.to/subham_nandi/understanding-ip-addressing-and-subnetting-3h3n)
 - [40 Days Of Kubernetes &lpar;2/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-240-20d7)
 - [40 Days Of Kubernetes &lpar;1/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-140-10lm)
 - [AWS CICD PIPELINE](https://dev.to/subham_nandi/aws-cicd-pipeline-1mgb)
-- [Deploying a Node Js Application on AWS EC2](https://dev.to/subham_nandi/deploying-a-node-js-application-on-aws-ec2-54ah)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
