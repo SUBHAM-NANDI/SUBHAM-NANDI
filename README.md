@@ -51,7 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100" height="100"/> 
   </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/47156173/k8s.gif" alt="kubernetes" width="100" height="100"/> 
+    <img src="https://media.licdn.com/dms/image/v2/C4E12AQHDtPSEe5XNSw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1608980960581?e=1729728000&v=beta&t=A2A0zSWbZsC2KMPhd1SzVZy738TkSyUlDLOBJJEU3Hs" alt="kubernetes" width="100" height="100"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif" alt="linux" width="100" height="100"/> 
