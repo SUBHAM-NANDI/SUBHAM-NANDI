@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Networking, VPC, and Application Deployment: A Step-by-Step Guide](https://dev.to/subham_nandi/aws-networking-vpc-and-application-deployment-a-step-by-step-guide-5fd2)
 - [VPC explained!](https://dev.to/subham_nandi/vpc-explained-59k0)
 - [40 Days Of Kubernetes &lpar;3/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-340-29aa)
 - [Understanding IP Addressing and Subnetting](https://dev.to/subham_nandi/understanding-ip-addressing-and-subnetting-3h3n)
 - [40 Days Of Kubernetes &lpar;2/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-240-20d7)
-- [40 Days Of Kubernetes &lpar;1/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-140-10lm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
