@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [40 Days Of Kubernetes &lpar;5/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-540-4216)
 - [Step-by-Step Guide: Managing S3 Bucket Access and Hosting a Static Website](https://dev.to/subham_nandi/step-by-step-guide-managing-s3-bucket-access-and-hosting-a-static-website-5a1p)
 - [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
 - [AWS Networking, VPC, and Application Deployment: A Step-by-Step Guide](https://dev.to/subham_nandi/aws-networking-vpc-and-application-deployment-a-step-by-step-guide-5fd2)
 - [VPC explained!](https://dev.to/subham_nandi/vpc-explained-59k0)
-- [40 Days Of Kubernetes &lpar;3/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-340-29aa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
