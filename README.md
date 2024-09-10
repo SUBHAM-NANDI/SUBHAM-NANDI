@@ -59,6 +59,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*OxDZ95Af_-7Ih_-m.gif" alt="python" width="100" height="100"/> 
   </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/df7cd203-7ced-467a-b210-f01242b36f54/5471776e-7298-474b-88cd-e67c30a2753f.png" alt="terraform" width="100" height="100"/> 
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subham-nandi&show_icons=true&locale=en&layout=compact" alt="Top Languages by Subham Nandi" /></p>
