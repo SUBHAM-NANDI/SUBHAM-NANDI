@@ -60,7 +60,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*OxDZ95Af_-7Ih_-m.gif" alt="python" width="100" height="100"/> 
   </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" alt="terraform" width="100" height="100"/> 
+    <img src="https://scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" alt="terraform" width="130" height="100"/> 
   </a> 
 </p>
 
