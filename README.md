@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AWS CloudWatch: A Comprehensive Guide](https://dev.to/subham_nandi/understanding-aws-cloudwatch-a-comprehensive-guide-5bcd)
+- [Understanding AWS CloudWatch: A Comprehensive Guide](https://dev.to/subham_nandi/understanding-aws-cloudwatch-a-comprehensive-guide-2h07)
 - [40 Days Of Kubernetes &lpar;8/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-840-gp9)
 - [40 Days Of Kubernetes &lpar;7/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-740-ml2)
 - [40 Days Of Kubernetes &lpar;6/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-640-4bma)
