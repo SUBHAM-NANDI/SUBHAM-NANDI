@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding AWS CloudWatch: A Comprehensive Guide](https://dev.to/subham_nandi/understanding-aws-cloudwatch-a-comprehensive-guide-5bcd)
 - [40 Days Of Kubernetes &lpar;8/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-840-gp9)
 - [40 Days Of Kubernetes &lpar;7/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-740-ml2)
 - [40 Days Of Kubernetes &lpar;6/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-640-4bma)
 - [40 Days Of Kubernetes &lpar;5/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-540-4216)
-- [Step-by-Step Guide: Managing S3 Bucket Access and Hosting a Static Website](https://dev.to/subham_nandi/step-by-step-guide-managing-s3-bucket-access-and-hosting-a-static-website-5a1p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
