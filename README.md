@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-940-3k9a)
 - [Cost Optimization: Automating EBS Snapshot Cleanup with AWS Lambda](https://dev.to/subham_nandi/cost-optimization-automating-ebs-snapshot-cleanup-with-aws-lambda-57a2)
 - [Understanding AWS CloudWatch: A Comprehensive Guide](https://dev.to/subham_nandi/understanding-aws-cloudwatch-a-comprehensive-guide-2h07)
 - [40 Days Of Kubernetes &lpar;8/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-840-gp9)
 - [40 Days Of Kubernetes &lpar;7/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-740-ml2)
-- [40 Days Of Kubernetes &lpar;6/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-640-4bma)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
