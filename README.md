@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes End to End project on EKS](https://dev.to/subham_nandi/kubernetes-end-to-end-project-on-eks-p7)
 - [Hosting a Static Website on S3 with CloudFront](https://dev.to/subham_nandi/hosting-a-static-website-on-s3-with-cloudfront-1i4e)
 - [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-940-3k9a)
 - [Cost Optimization: Automating EBS Snapshot Cleanup with AWS Lambda](https://dev.to/subham_nandi/cost-optimization-automating-ebs-snapshot-cleanup-with-aws-lambda-57a2)
 - [Understanding AWS CloudWatch: A Comprehensive Guide](https://dev.to/subham_nandi/understanding-aws-cloudwatch-a-comprehensive-guide-2h07)
-- [40 Days Of Kubernetes &lpar;8/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-840-gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
