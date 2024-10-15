@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 2 - Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/subham_nandi/day-2-setting-up-prometheus-and-grafana-on-amazon-eks-3kba)
 - [Day 1 - Fundamentals of Observability](https://dev.to/subham_nandi/day-1-fundamentals-of-observability-3fc5)
 - [40 Days Of Kubernetes &lpar;10/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-1040-33p6)
 - [Kubernetes End to End project on EKS](https://dev.to/subham_nandi/kubernetes-end-to-end-project-on-eks-p7)
 - [Hosting a Static Website on S3 with CloudFront](https://dev.to/subham_nandi/hosting-a-static-website-on-s3-with-cloudfront-1i4e)
-- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-940-3k9a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
