@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 3 - Prometheus and Grafana explained](https://dev.to/subham_nandi/day-3-prometheus-and-grafana-explained-1fa2)
 - [Assignment](https://dev.to/subham_nandi/assignment-3b5k)
 - [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
 - [Day 2 - Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/subham_nandi/day-2-setting-up-prometheus-and-grafana-on-amazon-eks-3kba)
 - [Day 1 - Fundamentals of Observability](https://dev.to/subham_nandi/day-1-fundamentals-of-observability-3fc5)
-- [40 Days Of Kubernetes &lpar;10/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-1040-33p6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
