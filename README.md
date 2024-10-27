@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day-4 | Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
 - [Day 3 - Prometheus and Grafana explained](https://dev.to/subham_nandi/day-3-prometheus-and-grafana-explained-1fa2)
 - [Assignment](https://dev.to/subham_nandi/assignment-3b5k)
 - [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
 - [Day 2 - Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/subham_nandi/day-2-setting-up-prometheus-and-grafana-on-amazon-eks-3kba)
-- [Day 1 - Fundamentals of Observability](https://dev.to/subham_nandi/day-1-fundamentals-of-observability-3fc5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
