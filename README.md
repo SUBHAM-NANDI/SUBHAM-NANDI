@@ -17,7 +17,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Day 5 - Logging with EFK Stack](https://dev.to/subham_nandi/day-5-logging-with-efk-stack-55aa)
-- [Day-4 - Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
+- [Day 4 - Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
 - [Day 3 - Prometheus and Grafana explained](https://dev.to/subham_nandi/day-3-prometheus-and-grafana-explained-1fa2)
 - [Assignment](https://dev.to/subham_nandi/assignment-3b5k)
 - [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
