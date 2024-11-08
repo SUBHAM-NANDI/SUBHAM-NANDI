@@ -66,13 +66,13 @@
     <img src="https://scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" alt="terraform" width="130" height="100"/> 
   </a> 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4PwaswJmp-r5egjOGph_yjX0xvzKNdy8PIx1OtG4fP7aUS-j6vRA1uYoQf09iM5ytgQ&usqp=CAU" alt="terraform" width="130" height="100"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4PwaswJmp-r5egjOGph_yjX0xvzKNdy8PIx1OtG4fP7aUS-j6vRA1uYoQf09iM5ytgQ&usqp=CAU" alt="terraform" width="100" height="100"/> 
   </a> 
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/800px-Prometheus_software_logo.svg.png" alt="terraform" width="130" height="100"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/800px-Prometheus_software_logo.svg.png" alt="terraform" width="100" height="100"/> 
   </a> 
   <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnpo-163W6jPFbUWnNWH1Fgwz1UFaQsV2_yDQtFZ1sNC0CVlV4iaar-CvufChHa_OWHM&usqp=CAU" alt="terraform" width="130" height="100"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnpo-163W6jPFbUWnNWH1Fgwz1UFaQsV2_yDQtFZ1sNC0CVlV4iaar-CvufChHa_OWHM&usqp=CAU" alt="terraform" width="100" height="100"/> 
   </a> 
 </p>
 
