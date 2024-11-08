@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/subham_nandi" target="_blank">
-    <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--F2tN0yaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb0wtz2xaqbgub8slcic.gif" alt="subham_nandi" height="100" width="100" />
+    <img align="center" src="https://images.app.goo.gl/CpRRVRQZj3k4hLwLA" alt="subham_nandi" height="100" width="100" />
   </a>
   <a href="https://www.linkedin.com/in/nandi-subham/" target="_blank">
     <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn Profile" height="100" width="100" />
