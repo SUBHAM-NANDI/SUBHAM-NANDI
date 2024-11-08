@@ -74,6 +74,21 @@
   <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnpo-163W6jPFbUWnNWH1Fgwz1UFaQsV2_yDQtFZ1sNC0CVlV4iaar-CvufChHa_OWHM&usqp=CAU" alt="terraform" width="100" height="100"/> 
   </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyoQthiUkG2aJYJnI9nyaveuxXz37wkP8YfdqnAow75mGTv3tmW_2JWzoyAm1sjl8U2E&usqp=CAU" alt="terraform" width="100" height="100"/> 
+  </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrh4UzWOB1HctVjLiMFvPM359hje47-az0kQ&s" alt="terraform" width="100" height="100"/> 
+  </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://media.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2621%2F9f60ba91-e078-4981-a2a3-9848e4e4fafa.png" alt="terraform" width="100" height="100"/> 
+  </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://logowik.com/content/uploads/images/jira3124.jpg" alt="terraform" width="100" height="100"/> 
+  </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.pinimg.com/736x/e9/e2/b8/e9e2b818226fe17368620379bf8cc302.jpg" alt="terraform" width="100" height="100"/> 
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subham-nandi&show_icons=true&locale=en&layout=compact" alt="Top Languages by Subham Nandi" /></p>
