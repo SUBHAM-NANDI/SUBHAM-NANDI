@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker: Day 1](https://dev.to/subham_nandi/docker-day-1-38a7)
 - [HashiCorp Packer](https://dev.to/subham_nandi/hashicorp-packer-3h61)
 - [End-to-End Observability Project](https://dev.to/subham_nandi/end-to-end-observability-project-1ffd)
 - [Day 6 - Distributed Tracing with Jaeger](https://dev.to/subham_nandi/day-6-distributed-tracing-with-jaeger-5dh4)
 - [Day 5 - Logging with EFK Stack](https://dev.to/subham_nandi/day-5-logging-with-efk-stack-55aa)
-- [Day 4 - Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
