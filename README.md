@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker: Day 3](https://dev.to/subham_nandi/docker-day-3-5cia)
 - [Docker: Day 2](https://dev.to/subham_nandi/docker-day-2-5fio)
 - [Docker: Day 1](https://dev.to/subham_nandi/docker-day-1-38a7)
 - [HashiCorp Packer](https://dev.to/subham_nandi/hashicorp-packer-3h61)
 - [End-to-End Observability Project](https://dev.to/subham_nandi/end-to-end-observability-project-1ffd)
-- [Day 6 - Distributed Tracing with Jaeger](https://dev.to/subham_nandi/day-6-distributed-tracing-with-jaeger-5dh4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
