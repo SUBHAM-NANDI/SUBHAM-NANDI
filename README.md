@@ -27,13 +27,8 @@
 
   <!-- Blogs Section -->
   <h4>Blog Posts:</h4>
-  <ul>
-    <li><a href="https://dev.to/subham_nandi/docker-day-3-5cia">Docker: Day 3</a></li>
-    <li><a href="https://dev.to/subham_nandi/docker-day-2-5fio">Docker: Day 2</a></li>
-    <li><a href="https://dev.to/subham_nandi/docker-day-1-38a7">Docker: Day 1</a></li>
-    <li><a href="https://dev.to/subham_nandi/hashicorp-packer-3h61">HashiCorp Packer</a></li>
-    <li><a href="https://dev.to/subham_nandi/end-to-end-observability-project-1ffd">End-to-End Observability Project</a></li>
-  </ul>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
   <!-- Connect with me Section -->
   <h3>Connect with me:</h3>
