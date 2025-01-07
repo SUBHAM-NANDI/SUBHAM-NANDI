@@ -15,9 +15,9 @@
   </h3>
 
   <!-- Articles Section -->
-  <p>📝 I regularly write articles on 
+ <!-- <p>📝 I regularly write articles on 
     <a href="https://dev.to/subham_nandi">Dev.to</a>
-  </p>
+  </p>  -->
 
   <p>📫 How to reach me: <strong>subhamnandiagt@gmail.com</strong></p>
 
