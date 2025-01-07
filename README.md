@@ -38,11 +38,11 @@
   <!-- Connect with me Section -->
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://dev.to/subham_nandi" target="_blank">
-      <img align="center" src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3%2F13d3b32a-d381-4549-b95e-ec665768ce8f.png" height="100" width="100" />
-    </a>
     <a href="https://www.linkedin.com/in/nandi-subham/" target="_blank">
       <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn Profile" height="100" width="100" />
+    </a>
+    <a href="https://dev.to/subham_nandi" target="_blank">
+      <img align="center" src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3%2F13d3b32a-d381-4549-b95e-ec665768ce8f.png" height="100" width="100" />
     </a>
   </p>
 
