@@ -15,9 +15,9 @@
   </h3>
 
   <!-- Articles Section -->
- <!-- <p>📝 I regularly write articles on 
+ <p>📝 I regularly write articles on 
     <a href="https://dev.to/subham_nandi">Dev.to</a>
-  </p>  -->
+  </p> 
 
   <p>📫 How to reach me: <strong>subhamnandiagt@gmail.com</strong></p>
 
@@ -26,14 +26,14 @@
   </p>
 
   <!-- Blogs Section -->
-  <h4>Blog Posts:</h4>
+  <!-- <h4>Blog Posts:</h4>
   <ul>
     <li><a href="https://dev.to/subham_nandi/docker-day-3-5cia">Docker: Day 3</a></li>
     <li><a href="https://dev.to/subham_nandi/docker-day-2-5fio">Docker: Day 2</a></li>
     <li><a href="https://dev.to/subham_nandi/docker-day-1-38a7">Docker: Day 1</a></li>
     <li><a href="https://dev.to/subham_nandi/hashicorp-packer-3h61">HashiCorp Packer</a></li>
     <li><a href="https://dev.to/subham_nandi/end-to-end-observability-project-1ffd">End-to-End Observability Project</a></li>
-  </ul>
+  </ul> -->
 
   <!-- Connect with me Section -->
   <h3>Connect with me:</h3>
