@@ -85,8 +85,8 @@
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/800px-Prometheus_software_logo.svg.png" alt="prometheus" width="100" height="100"/>
     </a>
-    <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnpo-163W6jPFbUWnNWH1Fgwz1UFaQsV2_yDQtFZ1sNC0CVlV4iaar-CvufChHa_OWHM&usqp=CAU" alt="jaeger" width="100" height="100"/>
+    <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
+      <img src="https://artifacthub.io/image/949a653d-9573-4e6f-8a20-443126e55656@3x" alt="jaeger" width="100" height="100"/>
     </a>
   </p>
 
