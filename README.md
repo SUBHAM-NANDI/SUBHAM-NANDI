@@ -11,7 +11,7 @@
     , I'm Subham Nandi
   </h1>
   <h3 align="center">
-    DevOps Engineer | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines
+    DevOps | Bridging Development & Operations | Automating Infrastructure & Enhancing CI/CD Pipelines
   </h3>
 
   <!-- Articles Section -->
